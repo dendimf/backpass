@@ -8,4 +8,4 @@ beforebackpass = gets
 print "Your word before: "
 puts "#{beforebackpass} this is before backpasscode."
 
-pri
+
